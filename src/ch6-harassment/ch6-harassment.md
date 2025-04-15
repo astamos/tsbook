@@ -20,7 +20,7 @@ Harassment underlies and interacts with many other types of abuse that we discus
 
 ![][image1]
 
-Figure 1: Harassment is complicated and adjacent to many other forms of online abuse. 
+*Figure 1: Harassment is complicated and adjacent to many other forms of online abuse.*
 
 In this chapter, we will break down some of the actors, tactics, and motivations involved in online harassment, analyze a few of the most notable examples, and discuss different policies and responses that companies can deploy to respond to the problem of online harassment. 
 
@@ -62,8 +62,6 @@ Another form of public harassment involves impersonation–the act of creating a
 
 While it can be harmful for someone to claim they are you, it can likewise be harmful for others to claim you are someone you are not. Such accusations can cause onslaughts of harassment. In the wake of the January 6 attack on the Capitol, efforts were made by vigilante online groups to identify people in photos and videos. Such efforts, while sometimes effective, open up opportunities for error and abuse. Even if ultimately the person falsely accused is proven to be innocent, their public reputation will already be tarnished and they will often continue to be hounded by people who believe them to be guilty. 
 
-#### 
-
 #### Public Non-Consensual Intimate Imagery
 
 We define the sharing of non-consensual intimate imagery (NCII) as the release of intimate or sexual images without the explicit consent of the subject. While sextortion and NCII are closely linked, we list NCII separately because it relates to the release of explicit imagery whereas sextortion relates to the *threat* of release. The NCII may have been initially obtained with consent of the subject, but the person did not consent to the public release of the images. These cases are sometimes referred to as “revenge porn,” but because pornography comes with an implication of agency, we prefer not to use that term. Furthermore, the word “revenge” insinuates that the victim may deserve the harm and harassment they receive. 
@@ -82,19 +80,19 @@ Sealioning involves the repeated and incessant questioning of a person until the
 
 ![][image2]
 
-Figure 2*:* 2014 comic strip by David Malki in his webcomic Wondermark. (Source: Wondermark[^15])
+*Figure 2: 2014 comic strip by David Malki in his webcomic Wondermark. (Source: Wondermark[^15])*
 
-## Harassment Tactics: Communal  
+### Harassment Tactics: Communal  
 
 Communal trolling describes when an abuser causes harm by stirring up trouble in the community around someone. 
 
-### Dogpiling
+#### Dogpiling
 
 The name dogpiling originated in the world of sports, where it refers to everyone piling on top of one player (as dogs occasionally do when playing with each other). Dogpiling in the digital world is similar: typically a target will be selected based on their personal characteristics (e.g. race, ethnicity, religion, gender, sexual orientation, sexual identity) or because they have expressed an unpopular opinion. The target will then be overwhelmed with negative content (such as comments) by an online mob. This is designed to make a target recant or withdraw from online spaces. 
 
 Dogpiling is sometimes so extreme that a person cannot participate in online forums, thus becoming a DoS attack.The ultimate victory for perpetrators is if the victim is forced to make their Twitter account private or delete their account. Dogpiling can be challenging to regulate because in most situations, each individual piece of content falls below the standard that would trigger company action. If one person tells you that your sweater is ugly, it would not be considered abuse from the platform’s perspective. However, when thousands of people pile on, it can become a much worse situation.
 
-### Brigading 
+#### Brigading 
 
 Brigading is similar to dogpiling in that it involves rallying a group of people to harass an individual. However, as the name suggests–in military terms, a brigade is a group of troops– brigading entails a more organized effort to rally a group of people into a single line of harassment. Brigrading is often the term used when this group manipulates a third-party source of value, opinion or truth, for example a search engine, review site or comment board. 
 
@@ -102,19 +100,19 @@ Sometimes, advocates use brigading to troll public figures or as a mechanism to 
 
 Small businesses are often the targets of brigading attacks and counter-attacks, which can bring thousands of people from around the world to their virtual doorsteps in an effort to destroy (or protect) their livelihoods when they get involved in a national controversy. For example, the classic American campaign tactic of a candidate visiting a restaurant to shake hands with “normal folks” now regularly leads to waves of negative[^16] reviews for that location, which might not have known about a visit until minutes before the politician walked through the front door. 
 
-## Harassment Tactics: Private
+### Harassment Tactics: Private
 
 Private harassment pertains to the variety of types of harassment that are done on a one-to-one basis. Many types of private harassment come with the *threat* of making information obtained public if the victim does not comply with the harasser’s demands.
 
-### Individual threats
+#### Individual Threats
 
 Using direct messages, emails, and text messages, people can send private messages that threaten, intimidate, or harass individual users. The private nature of these messages often means that the content is much more graphic, violent, or offensive. While many email services have robust spam filters, there is otherwise little filtering of abuse. People can send almost anything, including death threats. The same is true for Facebook messenger, SMS, iMessage, WhatsApp, Instagram DM, and other chat platforms. Given the low barrier of access on platforms like Facebook or Twitter, an abuser merely needs to know a victim’s screen name to begin engaging in abusive behavior.
 
-### Message Bombing
+#### Message Bombing
 
 Message bombing involves groups of people intentionally flooding an individual’s private text, email, or other messenger inbox with messages. If the group sends enough messages over a short period of time, it can overload the servers and victims can lose access to their accounts. For example, in 2017, Propublica’s email servers crashed after retaliatory actors signed their journalists up for thousands of online email subscriptions.[^17]
 
-### Cyberstalking
+#### Cyberstalking
 
 Cyberstalking is the prolonged use of internet tools to stalk and harass a person with the intent to intimidate, harm, or, in extreme cases, kill them. The internet provides a wealth of open source, paid, or hackable access to personal data and allows a stalker to follow an individual’s behavior online. There is also a vibrant market in off-the-shelf surveillance products that enable stalkers to pursue those goals.
 
@@ -124,13 +122,13 @@ A cyberstalker may use information gained from their surveillance to create fake
 
 *Kurzynski also admitted that in November 2017, he began registering Victim 2 for numerous weight loss and suicide prevention programs, resulting in a wave of calls and emails from entities such as Overeaters Anonymous, Weight Watchers, Yellow Ribbon Suicide Prevention, and others. Within weeks, Kurzynski started sending anonymous death threats to Victim 2, many of which referenced Victim 2’s work address. One threat claimed that he was waiting for her in the lobby, and another that said, “Looking forward to seeing you today and how much you bleed.  Don’t go to the bathroom alone.”[^18]*
 
-### Catfishing
+#### Catfishing
 
 Catfishing involves the creation of fake online profiles to lure someone into an online relationship. In most cases, the perpetrator’s goal is to convince the victim to send gifts and money. However, in rare cases, the purpose of the catfish is to hide one’s identity while pursuing a romantic relationship with the target. 
 
 In perhaps the most famous instance of the practice, Notre Dame linebacker Manti Te’o was catfished by an acquaintance. In 2011, “Lennay Kekua” reached out to Te’o on (what was then called) Twitter. Through Facebook and Twitter, Te’o and Kekua started a romantic relationship, although the two never met face-to-face. Te’o was a stand-out his senior year at Notre Dame, and a favorite for the Heisman, putting him in the national spotlight. In September, reporters shared that Te’o’s girlfriend had died of Leukemia shortly before Notre Dame’s big game against Michigan State. Headlines at the time praised Te’o’s “strength” in being able to continue through the tragedy,[^19] and the media hungrily shared the touching personal interest story. An investigation by *Deadspin*, however, revealed that Kekua did not exist.[^20] She was the creation of a male acquaintance of Te’o’s who had a romantic interest in the football star but knew that his feelings were not reciprocated.
 
-### Sextortion
+#### Sextortion
 
 Sextortion is the extortion of an individual using sexually explicit material in exchange for either money or further explicit material. Extortionists may obtain explicit material through hacking, coercion, or deception (such as catfishing), and then threaten to reveal the material to others, such as the victim’s friends, family, or coworkers, if they do not comply. Because sextortion can cause embarrassment to the victims, victims frequently fail to report the harassment to authorities. In a rare moment of activism, a British man, Jon Pearn, went public about his sextortion experience in 2016\.
 
@@ -140,13 +138,13 @@ Sextortion can sometimes happen without the extorter being in possession of expl
 
 “i know \[redacted\] is one of your password. I’ve recorded your cam while you were watching porn on \[redacted\] sites, also I’ve installed a keylogger on ur pc & collected all your contacts on social networks, messenger & emails. If you want me to erase the recording, pay me 1128$ in bitcoin on bitcoin address \[redacted\]. If i don’t get the bitcoins, i will definitely send your video to all your contacts.”
 
-The password listed was a real password no longer used by the recipient, but they had never visited the site listed. The phishing scam sought to extort the individual merely by convincing them that the scammer possessed explicit material related to the target. 	
+The password listed was a real password no longer used by the recipient, but they had never visited the site listed. The phishing scam sought to extort the individual merely by convincing them that the scammer possessed explicit material related to the target.    
 
 More recently, there have been cases of individuals in Cote d’Ivoire and Nigeria sextorting children in Western countries for money.[^22] In rare cases, these individuals have been extradited to the U.S. for prosecution.[^23] 
 
 The deceptive relationship-building phase of sextortion can be time consuming. AI, however, is making this more efficient. Perpetrators can now send an initial message to a child with an AI-generated nude image.[^24] The message might warn that while the child knows it’s fake, family and friends might think it’s real, and leverage this threat for extortion. 
 
- 
+Sextortion also discussed as an abuse type in our chapter on Child Sexual Exploitation.
 
 ## Notable Cases of Online Harassment
 
@@ -158,7 +156,7 @@ On September 7, 2012, a 15-year old Canadian Teenager posted an approximately ni
 
 ![][image3]
 
-Figure 3: Screenshot from Amanda Todd’s YouTube video. (Source: YouTube via The Hacker News[^25])
+*Figure* 3: Screenshot from Amanda Todd’s YouTube video. (Source: YouTube via The Hacker News[^25])*
 
 When she was around 13, Todd was convinced, after months of grooming, to flash someone she had met in an online video chat. The person screen captured the explicit material, which he then used to harass her into providing more material. He also created a Facebook account as a new student at her school and, after friending many of her classmates, changed his profile picture to her topless picture. She moved schools, but the harassment followed. She was bullied and harassed at school, while the extorter continued to harass her online.
 
@@ -172,6 +170,8 @@ While online harassment has been a feature of the internet since its birth, many
 
 The vitriol directed toward Quinn and her defenders was seemingly driven by a general dislike of Quinn’s game and what it represented. A movement of mostly young men who loved video games argued that video game culture had been taken over by “social justice warriors” and the games were too politically correct, in large part because of a handful of mostly female video game authors, engineers, producers, and journalists. Part of the goal of the harassment campaign was to tear down any media criticism: if anyone criticized a game from a cultural perspective, they would immediately become a target of the mob. Gamergate resulted in doxxing, swatting, and threats of violence: many targets quit their jobs, moved houses, and went to live with family and friends.
 
+Multiple cultural commentators have observed that the pattern established by Gamergate has become extremely influential, especially among English-speaking right-wing communities. The same pattern of hyperbole, dogpiling, doxxing and harassment has been repeated against dozens of targets that have been seen as overly progressive in the subsequent years. It has also spawned counter-movements in the gaming industry, leading to regular controversies and review brigading of games seen as "woke" several times a year.
+
 ### Journalists 
 
 In the past several years, journalists have become an increasingly common target of online harassment campaigns. During the 2016 election, several Jewish journalists, especially journalists who wrote unflattering articles about Candidate Donald Trump, became the target of a mass harassment effort. Here is, for instance, how the conservative commentator Bethany Mandel described her treatment following a negative comment about president Trump: 
@@ -180,13 +180,13 @@ In the past several years, journalists have become an increasingly common target
 
 ![][image4]
 
-Figure 6: Antisemitic and violent images of Bethany Mandel following her negative comments about President Trump in 2016\. (Source: Anti-Defamation League[^27] )
+*Figure* 4: Antisemitic and violent images of Bethany Mandel following her negative comments about President Trump in 2016\. (Source: Anti-Defamation League[^27])*
 
 Bethany’s harassment makes clear the importance of *context* in harassment. Consider, for instance, the image below, in which a picture of the famous Auschwitz Concentration camp has been altered to say “Make America Great” instead of “Work will make you free.” In context, it is clear that this is basically saying “we're going to kill you because you're a Jew.” But without historical context, it would be nearly impossible to identify this as a threatening image, which means that machine learning systems would be unable to prevent the posting of such images at scale. Further complicating the matter: terrible images are critical for remembering the atrocities of the Holocaust, and museums and other non-profit organizations will often share them on Remembrance Day and other important anniversaries. Thus, companies cannot prevent the images from being used for online harassment campaigns merely by banning the images (as they can with, e.g., CSE).
 
 ![][image5]![][image6]
 
-Figure 7: Antisemitic content harassing New York Time reporter Jonathan Weisman. (Source: Anti-Defamation League[^28])
+*Figure* 5: Antisemitic content harassing New York Time reporter Jonathan Weisman. (Source: Anti-Defamation League[^28])*
 
 ## Responses 
 
@@ -204,19 +204,21 @@ In order to identify and anticipate online harassment campaigns, companies need 
 
 #### Engage victim advocates
 
-One of the worst features of being the target of harassment is it can be isolating: you feel like nobody's on your side. Because abuse occurs across different platforms, the victim is often the only person who knows the extent of the harassing emails, messages, posts, and phone calls that are being directed at them. As a result, targets often feel that the technical solutions preferred by platforms–many of which place the onus on the targets to report harassment–fail to grasp the scope of the harassment. Reporting can be overwhelming and feel like playing a game of whac-a-mole for victims, especially in cases of cross-platform harassment. One way to help victims is to connect them with victim advocates. There are a range of organizations, some of which deal with specific forms of harassment (e.g., domestic violence, journalist safety, or child safety), while others deal with the effects of online harassment more generally. In certain cases, these organizations can provide targets with strategies to minimize the harassment they are experiencing. In other cases, they will simply talk to victims and help them deal with the emotional pain caused by the harassment. They can also act as important advocates for the victims in dealing with platforms.
+One of the worst features of being the target of harassment is it can be isolating: you feel like nobody's on your side. Because abuse occurs across different platforms, the victim is often the only person who knows the extent of the harassing emails, messages, posts, and phone calls that are being directed at them. As a result, targets often feel that the technical solutions preferred by platforms–many of which place the onus on the targets to report harassment–fail to grasp the scope of the harassment. Reporting can be overwhelming and feel like playing a game of whac-a-mole for victims, especially in cases of cross-platform harassment. 
+
+One way to help victims is to connect them with victim advocates. There are a range of organizations, some of which deal with specific forms of harassment (e.g., domestic violence, journalist safety, or child safety), while others deal with the effects of online harassment more generally. In certain cases, these organizations can provide targets with strategies to minimize the harassment they are experiencing. In other cases, they will simply talk to victims and help them deal with the emotional pain caused by the harassment. They can also act as important advocates for the victims in dealing with platforms.
 
 ### Product and Technical Responses
 
 #### Detailed and Effective Reporting flows
 
-The most basic product response that every should have is a reporting flow. If people are unable to report when they are being harassed, there is no way for a company to know that a harassment problem exists; if the company doesn’t know the problem exists, there is no way to respond to it, let alone respond effectively. We will dive deeply into reporting flows here, but they are a critical part of nearly every abuse type we discuss in the book. 
+The most basic product response that every should have is a reporting flow. If people are unable to report when they are being harassed, there is no way for a company to know that a harassment problem exists; if the company doesn’t know the problem exists, there is no way to respond to it, let alone respond effectively. We will dive deeply into reporting flows here, but they are a critical part of nearly every abuse type we discuss in the book.
 
 You can tell a lot about how deeply companies have thought about these issues by looking at their reporting flows. This is a diagram of the reporting flow for different kinds of abuse in Whatsapp, which is very, very thin. The number of options presented to the user is quite small, and while the user is presented with the choice to block a contact or report them, reporting does not allow the user sufficient choices to generate data around the report that would help the company act aggressively in responding to the abuse.
 
 ![][image7]
 
-Figure 8: WhatsApp reporting flow.
+*Figure 6: WhatsApp reporting flow.*
 
 Compare the reporting flow on Facebook (below), which is much more sophisticated and provides the company with much more detailed information. Despite the fact that both platforms are part of Meta, the two approaches are wildly different. Whereas the whatsapp trust and safety team is essentially telling users, “report something we'll get to it, maybe,” the Facebook trust and safety is much more aggressive, signaling to users that they take reports of abuse seriously. Beyond merely making the users feel like the report matters, the more aggressive approach gives the company a huge amount of metadata that allows them to take the report, and perhaps even deal with it automatically.
 
@@ -226,19 +228,19 @@ Often, when something is reported on certain kinds of flows, that will trigger a
 
 ![][image8]
 
-Figure 8: Facebook Messenger reporting flow.
+*Figure 7: Facebook Messenger reporting flow.*
 
 In general, companies that have dealt with significant abuse issues tend to have well-developed reporting flows for harassment, while companies that have not tend to have poorly thought out or underdeveloped flows. Here, for example, is the reporting flow for Reddit, which has significant experience with bad behavior. 
 
 ![][image9]
 
-Figure 9: Reddit reporting flow.
+*Figure 8: Reddit reporting flow.*
 
 In addition to the amount of information it captures, reporting flows also vary in terms of their ease of navigation. Difficult to follow reporting flows essentially tell the user that the company has no concern for online harassment. Consider the reporting flow for Telegram: while it is technically possible to block people on the service, the reality is that most people will not be able to locate this capability, and thus will be unable to use it. 
 
 ***![][image10]***
 
-Figure 10: Telegram reporting flow.***Telegram***
+*Figure 9: Telegram reporting flow.*
 
 Without claiming to provide a comprehensive blueprint – every reporting flow should be tailored to the specific needs of the company and user base – here are some general characteristics of a good reporting flow.
 
@@ -254,7 +256,7 @@ Without claiming to provide a comprehensive blueprint – every reporting flow s
 
 ![][image11]
 
-Figure 11: Label on X. (Source: x.com)
+*Figure 10: Label on X. (Source: x.com)*
 
 In private spaces, companies need to provide uses with a different set of capabilities. For instance, a number of companies have implemented the capability to block people in a way that is not obvious to the person being blocked. These capabilities allow the users to disconnect themselves from the person without starting a fight or giving the harasser the satisfaction that they were able to get under the user’s skin.
 
@@ -262,11 +264,11 @@ In private spaces, companies need to provide uses with a different set of capabi
 
 ![][image14]
 
-Figure 12:  Instagram’s “Restrict” feature. (Source: Instagram)
+*Figure 11:  Instagram’s “Restrict” feature. (Source: Instagram)*
 
 Instagram, for example, offers users the ability to "restrict" an account. A restricted user can still send messages, but these are filtered into a message requests folder. They can also comment on posts, but their comments are only visible to them and the account owner.
 
-#### Proactive monitoring 
+#### Proactive monitoring
 
 A key and necessary task for stopping targeted harassment is proactively monitoring for the use of language that might indicate individualized attacks. Most platforms use clusters of words such as racial, ethnic, gender and religious slurs as well as other types of profanity, to help guide their classifiers, when looking proactively for harassment and hate speech.
 
@@ -291,7 +293,7 @@ There are, however, certain signals that the platform could take into account wh
 
 #### Detect and Stop Pile-Ons
 
-Some platforms have made progress in slowing down the impact of group pile-ons through thoughtful designs or interventions, such as rate-limiting alerts during high-volume negative events or providing pop-ups giving users more choices to filter their feed or notifications upon detecting a high number of negative mentions from strangers. While such interventions will likely not help reputationally from an organized attack or somebody organically becoming the “main character” of a platform for a day, the psychic damage of having thousands of strangers tell a user to kill themselves can hopefully be lessened by a platform hiding those messages behind an interstitial and not buzzing their phone with each individual message. 
+Some platforms have made progress in slowing down the impact of group pile-ons through thoughtful designs or interventions, such as rate-limiting alerts during high-volume negative events or providing pop-ups giving users more choices to filter their feed or notifications upon detecting a high number of negative mentions from strangers. While such interventions will likely not help reputationally from an organized attack or somebody organically becoming the “main character” of a platform for a day, the psychic damage of having thousands of strangers tell a user to kill themselves can hopefully be lessened by a platform hiding those messages behind an interstitial and not buzzing their phone with each individual message.
 
 #### Build-in productive friction 
 
@@ -303,7 +305,7 @@ We're starting to see development of third party tools to deal with harassment. 
 
 ![][image17]![][image18]
 
-*Figure 14: Posts about Block Party and screenshot from Block Party. (Source: x.com and Block Party)*
+*Figure 12: Posts about Block Party and screenshot from Block Party. (Source: x.com and Block Party)*
 
 While X has closed many of the APIs that made external blocking tools possible, and many other commercial platforms have never offered such APIs, the move towards decentralized protocols and platforms, such as Mastodon (built on ActivityPub) and BlueSky (built on the AT Protocol) have created a great deal of discussion around this area. Our colleagues Frank Fukuyama[^29] and Renee DiResta[^30] have both written about the possibilities of middleware systems that put more choices in the hands of users, both of what they see algorithmically and what they block.   
 
