@@ -2,7 +2,7 @@
 
 By Alex Stamos and Shelby Grossman
 
-with Riana Pfefferkorn and Adriana Stephan
+with Riana Pfefferkorn
 
 ### Reading Note:
 
