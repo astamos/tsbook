@@ -20,7 +20,7 @@ Our current outline for the textbook is as follows:
 * Chapter 4 - [Surveillance, Oppression, and Censorship](src/ch4-surveillance/ch4-surveillance.md)
 * Chapter 5 - [Tech Tools: Machine Learning](src/ch5-machine-learning/ch5-machine-learning.md)
 * Chapter 6 - [Online Harassment](src/ch6-harassment/ch6-harassment.md)
-* Chapter 7 - [Child Sexual Exploitation](src/ch7-csam/ch7-csam.md)
+* Chapter 7 - [Child Sexual Exploitation](src/ch7-cse/ch7-cse.md)
 * Chapter 8 - [Incitement and Terrorism](src/ch8-terrorism/ch8-terrorism.md)
 * Chapter 9 - [Abusing AI](src/ch9-ai-abuse/ch9-ai-abuse.md)
 * Chapter 10 - [Misinformation and Disinformation](src/ch10-misinfo/ch10-misinfo.md)
