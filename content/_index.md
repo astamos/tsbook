@@ -29,7 +29,7 @@ Our current outline for the textbook is as follows:
 * Chapter 4 - Surveillance, Oppression, and Censorship (TBD)
 * Chapter 5 - Tech Tools: Machine Learning (TBD)
 * Chapter 6 - [Online Harassment](ch6-harassment/)
-* Chapter 7 - [Child Sexual Exploitation](src/ch7-cse/ch7-cse.md)
+* Chapter 7 - [Child Sexual Exploitation](/ch7-cse/)
 * Chapter 8 - Incitement and Terrorism (TBD)
 * Chapter 9 - Abusing AI (TBD)
 * Chapter 10 - Misinformation and Disinformation (TBD)
