@@ -1,6 +1,6 @@
 baseURL = 'https://tsbook.org/'
 languageCode = 'en-us'
-title = 'Trust and Safety Textbook'
+title = 'Trust and Safety: An Open Source Textbook'
 theme = 'hugo-book'
 
 # Book configuration
@@ -56,7 +56,7 @@ enableGitInfo = true
   # Requires 'BookRepo' param.
   # Value used to construct a URL consisting of BookRepo/BookCommitPath/<commit-hash>
   # Github uses 'commit', Bitbucket uses 'commits'
-  # BookCommitPath = 'commit'
+  BookCommitPath = 'commit'
 
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
