@@ -6,9 +6,7 @@ weight: 1
 
 # Fighting the Forever War:  Trust and Safety Engineering
 
-By Alex Stamos and Shelby Grossman
-
-with Riana Pfefferkorn
+*By Alex Stamos and Shelby Grossman with Riana Pfefferkorn*
 
 ### Reading Note:
 
@@ -41,13 +39,13 @@ We dedicate each chapter to a particular type of abuse (e.g. spam, child sexual 
 
 **This book targets four kinds of readers:**
 
-**Computer Science Students and Professors** \- Our hope is that this book will help inform the creation of trust and safety courses at the undergraduate level across the world. The layout of the book closely follows how we teach our course at Stanford[^2], CS 152/COMM 122/INTLPOL 267: Trust and Safety, and students are welcome to experience the book linearly along with materials from our class or as part of self-study. They also might be interested in using the chapters describing specific abuses as a good roadmap for finding new areas for research or tool development. The technical background chapters will likely constitute a review of basic concepts for most upper division CS students.
+- **Computer Science Students and Professors** \- Our hope is that this book will help inform the creation of trust and safety courses at the undergraduate level across the world. The layout of the book closely follows how we teach our course at Stanford[^2], CS 152/COMM 122/INTLPOL 267: Trust and Safety, and students are welcome to experience the book linearly along with materials from our class or as part of self-study. They also might be interested in using the chapters describing specific abuses as a good roadmap for finding new areas for research or tool development. The technical background chapters will likely constitute a review of basic concepts for most upper division CS students.
 
-**Policymakers and Policy Analysts** \- The regulation of online behavior and the companies that facilitate it are a key topic in many different policy debates ranging from data protection, national security and the struggle against disinformation. We hope that this book helps inform and ground these debates in facts about how various abuses express themselves and the existing systems in tech companies to deal with them. These readers might find the technical background chapters, such as the one on machine learning, to be a good introduction to complicated technical fields and then I expect these readers to be best informed by the specific abuse topics relevant to their policy interests.
+- **Policymakers and Policy Analysts** \- The regulation of online behavior and the companies that facilitate it are a key topic in many different policy debates ranging from data protection, national security and the struggle against disinformation. We hope that this book helps inform and ground these debates in facts about how various abuses express themselves and the existing systems in tech companies to deal with them. These readers might find the technical background chapters, such as the one on machine learning, to be a good introduction to complicated technical fields and then I expect these readers to be best informed by the specific abuse topics relevant to their policy interests.
 
-**Working Product Managers and Engineers** \- Professionals working in communications or user generated content platforms can use this book as a way to familiarize themselves with the broad range of harms that can arise from such products and the kinds of adversaries they are likely to face. The technical chapters will likely be seen as too simple for working software engineers, but the abuse chapters and the recommendations on team formation in the conclusion are hopefully helpful. 
+- **Working Product Managers and Engineers** \- Professionals working in communications or user generated content platforms can use this book as a way to familiarize themselves with the broad range of harms that can arise from such products and the kinds of adversaries they are likely to face. The technical chapters will likely be seen as too simple for working software engineers, but the abuse chapters and the recommendations on team formation in the conclusion are hopefully helpful. 
 
-**Entrepreneurs** \- The best time to think about trust and safety problems is early in the lifecycle of a new platform, and we hope that entrepreneurs use the introduction and conclusion chapters to help them understand the kinds of team members they should recruit and functions they should support. New companies with a specific focus on children or teenagers, such as a social photo app or game platform, should pay close attention to the child safety chapter.
+- **Entrepreneurs** \- The best time to think about trust and safety problems is early in the lifecycle of a new platform, and we hope that entrepreneurs use the introduction and conclusion chapters to help them understand the kinds of team members they should recruit and functions they should support. New companies with a specific focus on children or teenagers, such as a social photo app or game platform, should pay close attention to the child safety chapter.
 
 This book captures decades of problems and solutions in one place. We would like entrepreneurs to consider trust and safety issues much earlier in their product design process. We would like venture capitalists, advisors and other people in the startup ecosystem to make consideration of trust and safety challenges a standard part of the expected steps a new company will take. We would like students in computer science programs to consider specializing in trust and safety and putting their skills to use stopping really horrible abuses instead of optimizing ad click-thru rates. And finally, we would like media commentators and politicians to ground their complaints in reality and to be focused on the most harmful abuses of modern communications platforms. 
 
@@ -81,23 +79,23 @@ So, while I sat there mortified, taking the tongue lashing from Sheryl as over t
 
 As we explore a wide range of online harms, victims and responses, we will continuously return to some key themes that you might want to look out for: 
 
-1. Almost every harm we discuss in this book is something that predates the internet, and understanding the history of these harms is important if we want to predict and prevent future damage to individuals. 
+1. Almost every harm we discuss in this book is something that **predates the internet**, and understanding the history of these harms is important if we want to predict and prevent future damage to individuals. 
 
-2. Likewise, understanding the history of online abuses and how various companies have tried (and often failed) to deal with them is critical for any team working on a new product that allows for human interaction.
+2. Likewise, **understanding the history of online abuses** and how various companies have tried (and often failed) to deal with them is critical for any team working on a new product that allows for human interaction.
 
-3. Most platform policies involve difficult trade-offs between legitimate equities. How do you balance the right of political free expression against the desire to prevent disinformation? How do you balance individual privacy rights against the benefit of anti-abuse scanning technologies? 
+3. Most **platform policies involve difficult trade-offs** between legitimate equities. How do you balance the right of political free expression against the desire to prevent disinformation? How do you balance individual privacy rights against the benefit of anti-abuse scanning technologies? 
 
-4. These trade-offs cannot be avoided, but the final optimization can be improved through a deep understanding of the real issues and practical solutions.
+4. These trade-offs cannot be avoided, but the **final optimization can be improved** through a deep understanding of the real issues and practical solutions.
 
-5. Tech companies should prioritize their trust and safety work by considering the level of harm associated with an area of abuse, the prevalence of the abuse as well as the responsibility their particular product has for enabling such abuse. This kind of prioritization is better than constantly chasing media and political pressure.
+5. Tech companies should prioritize their trust and safety work by considering the level of harm associated with an area of abuse, the prevalence of the abuse as well as the responsibility their particular product has for enabling such abuse. This kind of prioritization is **better than constantly chasing media and political pressure**.
 
-6. It is very common for platforms to spend most of their time on issues that occur in the languages spoken by key executives and in developed countries where there are pressing media and political risks. This means that other serious harms might go unaddressed in the countries where a majority of users reside. 
+6. It is very common for platforms to **spend most of their time on issues that occur in the languages spoken by key executives and in developed countries** where there are pressing media and political risks. This means that other serious harms might go unaddressed in the countries where a majority of users reside. 
 
-7. Platforms have legal obligations around data access and some specific abuses (like child exploitation), but the vast majority of decisions they make will require them to create standards that go well beyond what they are legally required to do.
+7. Platforms have legal obligations around data access and some specific abuses (like child exploitation), but **the vast majority of decisions they make will require them to create standards that go well beyond what they are legally required to do**.
 
-8. It is a constant struggle to balance the desire to use automated systems to scale trust and safety enforcement across a platform against the reality that humans are much better at predicting how other humans will act.
+8. It is a constant struggle to balance the desire to use automated systems to scale trust and safety enforcement across a platform against the reality that **humans are much better at predicting how other humans will act**.
 
-9. Cryptography and machine learning are two of the critical technologies needed to prevent certain types of abuse, but are also paradoxically technologies that can be used to cause harm.
+9. Cryptography and machine learning are two of the critical technologies needed to prevent certain types of abuse, but are also **paradoxically technologies that can be used to cause harm**.
 
 ## So what is Trust and Safety?
 
@@ -162,7 +160,7 @@ Lastly, all the feedback from the trust & safety teams flows into product design
 ---
 ### Key Functions and Roles, from the Trust & Safety Professional Association 
 
-Here, with permission, we reproduce text from the Trust & Safety Professional Association. This content was authored by Harsha Bhatlapenumarthy.  Source: [https://www.tspa.org/curriculum/ts-curriculum/functions-roles/](https://www.tspa.org/curriculum/ts-curriculum/functions-roles/)  
+*Here, with permission, we reproduce text from the Trust & Safety Professional Association. This content was authored by Harsha Bhatlapenumarthy.  Source: [https://www.tspa.org/curriculum/ts-curriculum/functions-roles/](https://www.tspa.org/curriculum/ts-curriculum/functions-roles/)*  
 
 Although not all trust and safety teams are exactly the same, there are key functions and roles that are common across all trust and safety teams. On this page, we profile common functions within trust and safety, with a high-level description of what those teams do and examples of roles within those teams. Smaller companies may have teams that perform multiple functions or team members that play multiple roles. This list is not exhaustive.  
 
@@ -258,7 +256,7 @@ In theory, this is how a well-oiled trust and safety organization should functio
 
 ![][image4]
 
-*Figure 4: Trust and Safety Flow.* 
+*Figure 4: Simplified Trust and Safety Flow.* 
 
 ## Trade-offs
 
