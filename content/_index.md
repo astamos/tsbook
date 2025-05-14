@@ -1,5 +1,5 @@
 ---
-title: Trust and Safety\: An Open Source Textbook
+title: Trust and Safety":" An Open Source Textbook
 type: docs
 weight: 0
 ---
