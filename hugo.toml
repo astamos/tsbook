@@ -12,6 +12,10 @@ enableGitInfo = true
 [markup.goldmark.renderer]
   unsafe = true
 
+[services]
+  [services.googleAnalytics]
+    id = 'G-EWY8MRWJWY'
+
 [markup.tableOfContents]
   startLevel = 1
 
