@@ -5,13 +5,11 @@ type: docs
 
 # Trust and Safety: An Open Source Textbook
 
-*By Alex Stamos and Shelby Grossman* 
-
-*with Riana Pfefferkorn*
+By Alex Stamos and Shelby Grossman with Riana Pfefferkorn
 
 ## About This Project
 
-You are reading an open source textbook focused on Trust and Safety principles, practices, and techniques and was initially created to facilitate the [CS/COMM/INTLPOL Trust and Safety course at Stanford University](https://syllabus.stanford.edu/syllabus/#/viewSyllabus/Sp25-CS-152-01/Sp25-CS-152-01). We are releasing it publicly as a resource to other educators who wish to teach this subject, including our colleagues in the [Trust and Safety Teaching Consortium](https://stanfordio.github.io/TeachingTrustSafety/) as well as a tool for professionals, policy makers, and individuals who wish to educate themselves about some of the critical technology issues of the moment.
+You are reading an open source textbook focused on Trust and Safety principles, practices, and techniques and was initially created to facilitate the [Trust and Safety course at Stanford University](https://syllabus.stanford.edu/syllabus/#/viewSyllabus/Sp25-CS-152-01/Sp25-CS-152-01). We are releasing it publicly as a resource to other educators who wish to teach this subject, including our colleagues in the [Trust and Safety Teaching Consortium](https://stanfordio.github.io/TeachingTrustSafety/) as well as a tool for professionals, policy makers, and individuals who wish to educate themselves about some of the critical technology issues of the moment.
 
 ## Project Status
 
