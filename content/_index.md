@@ -14,22 +14,22 @@ This textbook is currently under active development. Chapters may be incomplete,
 
 Our current outline for the textbook is as follows:
 
-* Chapter 1 - [Introduction to Trust and Safety](content/ch1-introduction/_index.md)
-* Chapter 2 - [Spam and Online Fraud](content/ch2-spam-fraud/_index.md)
-* Chapter 3 - [Tech Tools: Cryptography](content/ch3-cryptography/_index.md)
-* Chapter 4 - [Surveillance, Oppression, and Censorship](content/ch4-surveillance/_index.md)
-* Chapter 5 - [Tech Tools: Machine Learning](content/ch5-machine-learning/_index.md)
-* Chapter 6 - [Online Harassment](content/ch6-harassment/_index.md)
-* Chapter 7 - [Child Sexual Exploitation](content/ch7-cse/_index.md)
-* Chapter 8 - [Incitement and Terrorism](content/ch8-terrorism/_index.md)
-* Chapter 9 - [Abusing AI](content/ch9-ai-abuse/_index.md)
-* Chapter 10 - [Misinformation and Disinformation](content/ch10-misinfo/_index.md)
-* Chapter 11 - [Safety in the Sharing Economy](content/ch11-sharing-economy/_index.md)
-* Chapter 12 - [Conclusion and Future Directions](content/ch12-conclusion/_index.md)
+* Chapter 1 - [Introduction to Trust and Safety](ch1-introduction/)
+* Chapter 2 - [Spam and Online Fraud](ch2-spam-fraud/)
+* Chapter 3 - Tech Tools: Cryptography (TBD)
+* Chapter 4 - Surveillance, Oppression, and Censorship (TBD)
+* Chapter 5 - Tech Tools: Machine Learning (TBD)
+* Chapter 6 - [Online Harassment](ch6-harassment/)
+* Chapter 7 - [Child Sexual Exploitation](src/ch7-cse/ch7-cse.md)
+* Chapter 8 - Incitement and Terrorism (TBD)
+* Chapter 9 - Abusing AI (TBD)
+* Chapter 10 - Misinformation and Disinformation (TBD)
+* Chapter 11 - Safety in the Sharing Economy (TBD)
+* Chapter 12 - Conclusion and Future Directions (TBD)
 
 ## How to Use This Textbook
 
-The textbook will be primarily available and edited in markdown format and can be read directly on GitHub or downloaded for offline use. We're working to make various formats available (PDF, EPUB, etc.) as the project matures.
+The textbook is primarily available and edited in markdown format and can be read directly on GitHub or downloaded for offline use. We're working to make various formats available (PDF, EPUB, etc.) as the project matures.
 
 ## Contributing
 
