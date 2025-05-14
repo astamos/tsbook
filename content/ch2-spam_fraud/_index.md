@@ -20,7 +20,7 @@ weight: 2
 
 ![][image1]
 
-Figure 1: Posts from Nelly encouraging followers to report and be wary of scam accounts assuming her identity. (Source: Instagram.)
+*Figure 1: Posts from Nelly encouraging followers to report and be wary of scam accounts assuming her identity. (Source: Instagram.)*
 
 ## Introduction to Spam and Online Fraud
 
@@ -44,7 +44,7 @@ Fraud is powered by spam. But unlike spam, fraud involves deception. Generally s
 
 ![][image2]
 
-Figure 2: A 2020 version of the 419 scam. (Source: Brian Krebs[^12])
+*Figure 2: A 2020 version of the 419 scam. (Source: Brian Krebs[^12])*
 
 * **Romance scams \-** One of the most shockingly effective modern scams is the romance scam, which involves the use of a fake online persona to seduce and build relationships with individuals in order to solicit funds. Despite the individualized nature of romance scams, con artists that target victims for romance scams are often part of an underground network of criminal organizations that work together.[^13] Median losses due to romance scams in the U.S. in 2023 were $2,000, higher than any other imposter scam tracked by the FTC .[^14]
 
@@ -57,14 +57,14 @@ Figure 2: A 2020 version of the 419 scam. (Source: Brian Krebs[^12])
 
   **![][image3]**
 
-  Figure 3: Screenshot of military romance scammer’s Facebook profile. (Source: Facebook[^15])
+  *Figure 3: Screenshot of military romance scammer’s Facebook profile. (Source: Facebook[^15])*
 
 
 * **Shopping scams \-** A number of scams focus on online shopping, often involving imitation products. Scams will arrive via email or social media, directing users to a third-party eCommerce store where they offer luxury items at a low price. Third party sellers on Amazon have, for instance, listed thousands of banned, unsafe, or mislabeled products, including expired food.[^16] Some consumers have attempted to buy expensive hard drives only to receive a box with a paperweight inside.[^17] Since there are rarely consequences for sellers that peddle fake items beyond being deplatformed, sellers can simply reestablish their presence using a different brand or name.[^18] 
 
 ![][image4]
 
-Figure 4: A counterfeit Amazon child harness falsely claims it is FAA approved. It looks identical to the real harness and is selling for $50 cheaper. (Source: New York Times[^19])
+*Figure 4: A counterfeit Amazon child harness falsely claims it is FAA approved. It looks identical to the real harness and is selling for $50 cheaper. (Source: New York Times[^19])*
 
 * **Fake Antivirus software** \- Cyber-criminals know very well how critical it is for users to have strong security. Rogue antivirus software, often displayed as a pop-up claiming that the user’s device may be infected, directs users to a website where they can purchase the fake software. Upon installation, the fake anti-virus software installs malware on the user’s computer, and the scammers proceed to exploit the financial data with which the user completed the purchase.[^20]
 
@@ -74,7 +74,7 @@ Figure 4: A counterfeit Amazon child harness falsely claims it is FAA approved. 
 
 ![][image5]
 
-Figure 5: A scam email soliciting donations for the World Health Organization during COVID-19. (Source: identityforce.com[^21])
+*Figure 5: A scam email soliciting donations for the World Health Organization during COVID-19. (Source: identityforce.com[^21])*
 
 ## Fraud and Online Identity
 
@@ -93,7 +93,7 @@ Table 1: Three levels of online identity mapping.
 
 ![][image6]
 
-Figure 6: Examples of the three levels of identity mapping.
+*Figure 6: Examples of the three levels of identity mapping.*
 
 ### Organization ↔ Infrastructure Vulnerabilities 
 
@@ -106,7 +106,7 @@ Such attacks could be targeted against specific victims or aimed at a broad swat
 
 ![][image7]
 
-Figure 7: Example of a site that could be used for a phishing campaign.
+*Figure 7: Example of a site that could be used for a phishing campaign.*
 
 In the example above, the metadata provided by the browser (fakebook.hacklab.info) is an indication that, while all the content may look exactly like the real Facebook login page, the page doesn’t belong to Facebook. It’s far easier than you might think to create identical copies of the web page content. 
 
@@ -129,7 +129,7 @@ Part of the reason that these issues apply to email, even today, is that the bas
 
 ![][image8]
 
-Figure 8: Screenshot from 2020 Twitter hack that compromised user \<-\> account mapping to circulate a cryptocurrency scam. (Source: New York Times[^25])
+*Figure 8: Screenshot from 2020 Twitter hack that compromised user \<-\> account mapping to circulate a cryptocurrency scam. (Source: New York Times[^25])*
 
 Authentication is critical to establishing and protecting a user’s online identity in order to ensure that the user accessing the account is its legitimate owner.[^26] Authentication verifies who a user claims to be by mapping one entity to another. Logging into email, bank accounts, and social media using a username and password is the most familiar form of authentication. However, the username and password paradigm, which dates back to the 1970s, was developed when authentication only occurred locally. University or business employees accessed a nearby mainframe via usernames and passwords, which made it easier to track which departments were using the mainframe, and bill different departments accordingly. The username and password system was never meant to be used for remote authentication, yet we still live with this paradigm today.[^27] 
 
@@ -148,7 +148,7 @@ Scammers may break into secure accounts in multiple ways.
 
   ![][image9]
 
-  Figure 9: Screenshot of hacked accounts being sold on Dark Web in January 2021\.
+  *Figure 9: Screenshot of hacked accounts being sold on Dark Web in January 2021\.*
 
 
 * **Taking Advantage of Information from Data Breaches.** Data breaches are gold mines for hackers looking to gain login information. In the 2017 Equifax breach, for instance, the credentials of 147 million Americans were exposed.[^30] In the screenshot provided above, hacked accounts are being sold on the black market where purchasers can attempt to redeem the money in the account. In addition to allowing hackers to infiltrate accounts, data breaches can provide hackers with sensitive information that can also be used for identity theft.
@@ -166,13 +166,13 @@ Fraud at this level includes identity theft and account impersonation. If, after
 
 ![][image10]
 
-Figure 10: Example of a threatening message that aims to deceive the recipient into thinking their computer was hacked.
+*Figure 10: Example of a threatening message that aims to deceive the recipient into thinking their computer was hacked.*
 
 ## A Brief History of Spam and Online Fraud
 
 ![][image11]
 
-Figure 11: 1898 *New York Times* article on the Spanish Prisoner scam. (Source: New York Times[^32])
+*Figure 11: 1898 *New York Times* article on the Spanish Prisoner scam. (Source: New York Times[^32])*
 
 Fraud has existed in some form since the dawn of commerce. The first known instance dates back to 300 BC when a Greek merchant, Hegestratos, took out a significant insurance policy on a boat he later intended to sink.[^33] However, when the crew caught wind of his plan and confronted him, Hegegstratos jumped overboard and drowned.
 
@@ -190,7 +190,7 @@ By 1994, the internet had undergone a notable shift away from computer science p
 
 ![][image12]
 
-Figure 12: Canter and Siegel Green Card spam message on Usenet. (Source: Trust and Safety Foundation[^42])
+*Figure 12: Canter and Siegel Green Card spam message on Usenet. (Source: Trust and Safety Foundation[^42])*
 
     
 
@@ -210,7 +210,7 @@ As spamming grew into a business, antispam activists worked diligently to publis
 
 ![][image13]
 
-Figure 13: Techniques used to defeat anti-spam filters in 2007 (Source: Wang et al 2007[^50])
+*Figure 13: Techniques used to defeat anti-spam filters in 2007 (Source: Wang et al 2007[^50])*
 
 By the early aughts, the situation with spam email was dire. Deeply committed, anti-spam activists were largely fighting a losing battle. However, two 1998 papers argued for adopting a filtering system based on naive Bayesian statistical analysis that proved incredibly influential in the fight against spam.[^51] One of these papers was written by Stanford computer scientist Mehran Sahami, whose Naive Bayesian classifiers were deployed in commercial spam filters. This technique was later refined by Paul Graham, a computer scientist who later founded the seed money startup accelerator, Y Combinator, in his influential essay “A Plan for Spam.”[^52] Graham argued for content-based filtering for email spam, writing, “If we can write software that recognizes their messages, there is no way they can get around that.”[^53] 
 
@@ -224,7 +224,7 @@ The consolidation of criminal spam gangs and the increase in internet users mean
 
 ![][image14]
 
-Figure 14: 22 percent of Yahoo emails were spam in 2013\. (Source: Krebs on Security[^57])
+*Figure 14: 22 percent of Yahoo emails were spam in 2013\. (Source: Krebs on Security[^57])*
 
 The NSA was not alone in their frustration. In 2013, email spam cost businesses around $20.5 billion.[^58] The fundamental spam imbalance that began with Usenet continued at enormous cost to companies and individuals.
 
@@ -240,7 +240,7 @@ With the potential to make money off each compromised account, spam began to att
 
 ![][image16]
 
-Figure 15: Screenshots from the Dark Web (January 2021\) offering access to hacked accounts and hacker-for-hire services
+*Figure 15: Screenshots from the Dark Web (January 2021\) offering access to hacked accounts and hacker-for-hire services*
 
 ### Web 2.0 and New Forms of Spam
 
@@ -252,17 +252,17 @@ One particularly common use of fake accounts involves impersonating celebrities 
 
 ![][image17]
 
-Figure 16: Scammers leveraged Elon Musk’s appearance on SNL to run cryptocurrency giveaway scams. (Source: TRM Labs[^70])
+*Figure 16: Scammers leveraged Elon Musk’s appearance on SNL to run cryptocurrency giveaway scams. (Source: TRM Labs[^70])*
 
 ![][image18]![][image19]
 
-Figure 17: Fake Alex Stamos X accounts. (Source: X[^71]) 
+*Figure 17: Fake Alex Stamos X accounts. (Source: X[^71])*
 
 Financially motivated spammers have also capitalized on humanitarian crises and conflicts to cajole users into buying merchandise or visiting third-party websites displaying ads. Following Russia’s invasion of Ukraine, Meta removed thousands of accounts, Pages, and Groups “streaming live-gaming videos and reposting popular content including other people’s videos from Ukraine as a way to pose as sharing live updates”[^72] in an attempt to generate profits.[^73]
 
 ![][image20]
 
-Figure 18: Scammers capitalizing on the war in Ukraine. (Source: Input Magazine[^74])
+*Figure 18: Scammers capitalizing on the war in Ukraine. (Source: Input Magazine[^74])*
 
 ## Responses
 
@@ -340,7 +340,7 @@ Multi-factor authentication schemes are relatively difficult for fraudsters to a
 
  ![][image21]
 
-Figure 19: Multi-factor authentication example 
+*Figure 19: Multi-factor authentication example*
 
 When designing security systems, companies should keep in mind that their users likely have no sense of how they are going to get hacked. Most users believe that simply using antivirus software and strong passwords will keep them safe online. Giving users different authentication options may make it easier for the company to manage spam risk, but it creates a risk that people will make the wrong choice for their threat level.
 
@@ -378,7 +378,7 @@ Prominent and known users should have a verification checkmark displayed by thei
 
 ![][image22]![][image23]
 
-Figure 20: Examples of verification checkmarks. (Sources: X and Facebook[^82], [^83])
+*Figure 20: Examples of verification checkmarks. (Sources: X and Facebook[^82], [^83])*
 
 #### Reporting mechanisms. 
 
@@ -388,7 +388,7 @@ Reporting mechanisms, however, can be gamed. The audio app Clubhouse built a blo
 
 ![][image24]
 
-Figure 21: Clubhouse’s black shield indicating a user has been blocked by many other users.
+*Figure 21: Clubhouse’s black shield indicating a user has been blocked by many other users.*
 
 #### Operational checks on well-known targets. 
 

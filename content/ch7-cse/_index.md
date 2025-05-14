@@ -257,7 +257,7 @@ However, such rules can sometimes be hard to operationalize. Take one high profi
 
 ![The Terror of War | 100 Photographs | The Most Influential Images ...][image8]
 
-*Figure 6: The “napalm girl” photo by Nick Ut. (Source: Fotografiska[^60])*
+*Figure 6: The “napalm girl” photo by Nick Ut. (Source: AP/Fotografiska[^60])*
 
 Facebook's decision to delete the post was criticized by many, including Norwegian Prime Minister Erna Solberg. Solberg herself shared the image, noting that she appreciated “the work Facebook and other media do to stop content and pictures showing abuse and violence ... But Facebook is wrong when they censor such \[important, historical\] images.”[^61] This post was deleted by Facebook, to which she responded, “It is highly regrettable that Facebook has removed a post from my Facebook page. What they achieve by removing such images, good as the intentions may be, is to edit our common history. I wish today’s children will also have the opportunity to see and learn from historical mistakes and events.”
 
