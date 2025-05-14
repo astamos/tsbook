@@ -22,7 +22,7 @@ This textbook is currently under active development. Chapters may be incomplete,
 Our current outline for the textbook is as follows:
 
 * Chapter 1 - [Introduction to Trust and Safety](ch1-introduction/)
-* Chapter 2 - [Spam and Online Fraud](ch2-spam-fraud/)
+* Chapter 2 - [Spam and Online Fraud](ch2-spam_fraud/)
 * Chapter 3 - Tech Tools: Cryptography (TBD)
 * Chapter 4 - Surveillance, Oppression, and Censorship (TBD)
 * Chapter 5 - Tech Tools: Machine Learning (TBD)
