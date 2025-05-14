@@ -1,35 +1,38 @@
+---
+title: Book README
+type: docs
+---
+
 # Trust and Safety: An Open Source Textbook
+
+By Alex Stamos and Shelby Grossman with Riana Pfefferkorn
 
 ## About This Project
 
-This repository contains an open source textbook focused on Trust and Safety principles, practices, and techniques and was initially created to facilitate the [CS/COMM/INTLPOL Trust and Safety course at Stanford University](https://syllabus.stanford.edu/syllabus/#/viewSyllabus/Sp25-CS-152-01/Sp25-CS-152-01). We are releasing it publicly as a resource to other educators who wish to teach this subject, including our colleagues in the [Trust and Safety Teaching Consortium](https://stanfordio.github.io/TeachingTrustSafety/) as well as a tool for professionals, policy makers, and individuals who wish to educate themselves about some of the critical technology issues of the moment.
+You are reading an open source textbook focused on Trust and Safety principles, practices, and techniques and was initially created to facilitate the [Trust and Safety course at Stanford University](https://syllabus.stanford.edu/syllabus/#/viewSyllabus/Sp25-CS-152-01/Sp25-CS-152-01). We are releasing it publicly as a resource to other educators who wish to teach this subject, including our colleagues in the [Trust and Safety Teaching Consortium](https://stanfordio.github.io/TeachingTrustSafety/) as well as a tool for professionals, policy makers, and individuals who wish to educate themselves about some of the critical technology issues of the moment.
 
 ## Project Status
 
 🚧 **Work in Progress** 🚧
 
-This textbook is currently under active development. Chapters may be incomplete, and content is subject to change as the field evolves. We appreciate your patience and contributions during this development phase.
+This textbook is currently under active development. Chapters may be incomplete, and content is subject to change as the field evolves. We appreciate your patience and contributions during this development phase. The source code for this book is stored at [https://github.com/astamos/tsbook](https://github.com/astamos/tsbook)
 
 ## Content Overview
 
 Our current outline for the textbook is as follows:
 
-* Chapter 1 - [Introduction to Trust and Safety](content/ch1-introduction/_index.md)
-* Chapter 2 - [Spam and Online Fraud](content/ch2-spam-fraud/_index.md)
-* Chapter 3 - [Tech Tools: Cryptography](content/ch3-cryptography/_index.md)
-* Chapter 4 - [Surveillance, Oppression, and Censorship](content/ch4-surveillance/_index.md)
-* Chapter 5 - [Tech Tools: Machine Learning](content/ch5-machine-learning/_index.md)
-* Chapter 6 - [Online Harassment](content/ch6-harassment/_index.md)
-* Chapter 7 - [Child Sexual Exploitation](content/ch7-cse/_index.md)
-* Chapter 8 - [Incitement and Terrorism](content/ch8-terrorism/_index.md)
-* Chapter 9 - [Abusing AI](content/ch9-ai-abuse/_index.md)
-* Chapter 10 - [Misinformation and Disinformation](content/ch10-misinfo/_index.md)
-* Chapter 11 - [Safety in the Sharing Economy](content/ch11-sharing-economy/_index.md)
-* Chapter 12 - [Conclusion and Future Directions](content/ch12-conclusion/_index.md)
-
-## How to Use This Textbook
-
-The textbook will be primarily available and edited in markdown format and can be read directly on GitHub or downloaded for offline use. We're working to make various formats available (PDF, EPUB, etc.) as the project matures.
+* Chapter 1 - [Introduction to Trust and Safety](ch1-introduction/)
+* Chapter 2 - [Spam and Online Fraud](ch2-spam-fraud/)
+* Chapter 3 - Tech Tools: Cryptography (TBD)
+* Chapter 4 - Surveillance, Oppression, and Censorship (TBD)
+* Chapter 5 - Tech Tools: Machine Learning (TBD)
+* Chapter 6 - [Online Harassment](ch6-harassment/)
+* Chapter 7 - [Child Sexual Exploitation](/ch7-cse/)
+* Chapter 8 - Incitement and Terrorism (TBD)
+* Chapter 9 - Abusing AI (TBD)
+* Chapter 10 - Misinformation and Disinformation (TBD)
+* Chapter 11 - Safety in the Sharing Economy (TBD)
+* Chapter 12 - Conclusion and Future Directions (TBD)
 
 ## Contributing
 
@@ -40,7 +43,7 @@ We welcome contributions from subject matter experts, practitioners, educators, 
 3. **Enhancements**: Improve existing content with additional examples, references, or clarifications
 4. **Translations**: We eventually want to make this resource available in other languages, through a combination of machine translation and human editing
 
-Please see our [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed guidelines on how to contribute.
+Please see our [CONTRIBUTING.md](https://github.com/astamos/tsbook/blob/main/CONTRIBUTING.md) file for detailed guidelines on how to contribute.
 
 ## License
 

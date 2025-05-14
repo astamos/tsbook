@@ -1,3 +1,9 @@
+---
+title: Child Sexual Exploitation
+type: docs
+weight: 7
+---
+
 # Child Sexual Exploitation
 
 This chapter contains frank discussion of criminal activity involving minors that many people will find challenging or upsetting. While we will not discuss details or show activities of child abuse, we will discuss real incidents and victims, including victims who ultimately committed suicide. The events described are based in reality, but some names and details have been adapted to protect victims’ identities.
@@ -217,7 +223,7 @@ Furthermore, the user bases of U.S.-based companies are truly global. In 2023, N
 | Yemen Arab Republic | 320,910 |
 | France | 310,519 |
 
-Table 4: The 20 countries with the most CyberTipline reports in 2023\. While NCMEC is a little vague on what these numbers mean, they likely refer to the number of CyberTipline reports where the CSAM uploader was located in the specified country. These numbers do not accurately indicate the level of child sexual abuse in a particular country, just the volume of reports. Additionally, country-specific numbers can be impacted by the use of proxies and anonymizers. (Source: NCMEC[^56])
+*Table 4: The 20 countries with the most CyberTipline reports in 2023\. While NCMEC is a little vague on what these numbers mean, they likely refer to the number of CyberTipline reports where the CSAM uploader was located in the specified country. These numbers do not accurately indicate the level of child sexual abuse in a particular country, just the volume of reports. Additionally, country-specific numbers can be impacted by the use of proxies and anonymizers. (Source: NCMEC[^56])*
 
 In 2023 more than 80% of reports to NCMEC were made by Facebook and Instagram.[^57] This is natural, given the scale of companies like Meta  that provide everything from chat to email to messaging to photo-sharing. Meta and other large companies not only have huge global user bases, but they also undertake massive voluntary, often automated, initiatives to screen and report content. Facebook, for example, scans every single image that transmits its network, including those sent over private messenger (with the exception of pictures sent over WhatsApp, which is end-to-end encrypted). While Facebook has the largest number of users globally, it also devotes the most resources–both technology and personnel–to the task of detection. If every company performed the same level of detection, NCMEC would probably receive hundreds of millions of reports. Many platforms, however, don’t possess the necessary resources, or they choose not to spend them to address this issue.
 

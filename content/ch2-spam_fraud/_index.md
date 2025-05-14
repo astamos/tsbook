@@ -1,3 +1,9 @@
+---
+title: Spam and Online Fraud
+type: docs
+weight: 2
+---
+
 # Spam and Online Fraud
 
 *Nelly Agbogu couldn’t believe how popular her Instagram page had become. After successfully building her own popular healthy food brand, Nellies Nigeria, she had decided to start Naija Brand Chick, a platform to help other women in Nigeria grow their online brands. With Instagram as her primary outlet, she posted tips on how small business owners could use Instagram to expand their businesses, and her page quickly grew to over 200,000 followers. The hashtag \#NaijaBrandChick became one ofthe three most popular hashtags in Nigeria on Instagram with over 6.6 million posts.* 
