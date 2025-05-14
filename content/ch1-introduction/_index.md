@@ -1,3 +1,8 @@
+---
+title: Introduction to Trust and Safety
+type: docs
+---
+
 # Fighting the Forever War:  Trust and Safety Engineering
 
 By Alex Stamos and Shelby Grossman

@@ -1,3 +1,8 @@
+---
+title: Online Harassment
+type: docs
+---
+
 # Online Harassment 
 
 *When Maryam moved from her small village in Afghanistan to Kabul for high school, all her friends were obsessed with something called “Facebook.”[^1] She was eager to join the platform but also anxious that her parents wouldn’t approve, so she did what so many of her friends and cousins had done: she opened an account under a fake name. For her profile picture, she used a picture that she found online of a child holding a giant heart shaped sign against a red and white swirl background. At school she told her friends her account name. She soon started receiving friend requests from other accounts with unfamiliar names and pictures, but accompanied by messages like “Hi Maryam\! This is Zeinab\!”* 
